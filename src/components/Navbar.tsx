@@ -15,7 +15,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="text-2xl font-bold text-gray-900">
-              Portfolio
+              AW
             </Link>
           </div>
           <div className="hidden md:block">

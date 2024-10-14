@@ -11,6 +11,7 @@ import { Link } from "react-router-dom";
 import ad from "../assets/ad.jpg";
 import biddew from "../assets/ba.jpg";
 import etoile from "../assets/ep.jpg";
+import "../index.css";
 
 const Home = () => {
   return (
@@ -21,7 +22,7 @@ const Home = () => {
       className="min-h-screen bg-gray-100"
     >
       {/* Hero Section */}
-      <section className="bg-blue-600 text-white py-20">
+      <section className="bgc text-white py-20">
         <div className="container mx-auto px-4 text-center">
           <motion.h1
             initial={{ y: -50 }}

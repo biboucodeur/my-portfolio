@@ -32,3 +32,6 @@
 .slide-in {
   animation: slideIn 0.5s ease-out;
 }
+.bgc {
+  background-color: #001e28;
+}
