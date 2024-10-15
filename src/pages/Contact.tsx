@@ -77,7 +77,7 @@ const Contact = () => {
             <form onSubmit={handleSubmit}>
               <div className="mb-4">
                 <label className="block text-gray-700 font-bold mb-2">
-                  Nom complet
+                  Nom complet*
                 </label>
                 <input
                   type="text"
@@ -90,7 +90,7 @@ const Contact = () => {
               </div>
               <div className="mb-4">
                 <label className="block text-gray-700 font-bold mb-2">
-                  Email
+                  Email*
                 </label>
                 <input
                   type="email"
