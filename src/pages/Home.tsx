@@ -106,19 +106,15 @@ const Home = () => {
             <Briefcase size={48} className="mx-auto text-blue-600 mb-4" />
             <h2 className="text-3xl font-bold mb-8">Mes projets</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-4xl mx-auto">
-              <ProjectCard
-                title="AAD Pharma"
-                description="A full-featured online store built with React and Node.js"
-                image={ad}
-              />
+              <ProjectCard title="AAD Pharma" description="Logo" image={ad} />
               <ProjectCard
                 title="Biddew Academy"
-                description="A sleek and responsive portfolio for a professional photographer"
+                description="Logo"
                 image={biddew}
               />
               <ProjectCard
                 title="Etoile Production"
-                description="A user-friendly app to help teams organize and track their projects"
+                description="Logo"
                 image={etoile}
               />
             </div>
