@@ -43,7 +43,7 @@ const Home = () => {
           </motion.p>
           <Link
             to="/projects"
-            className="bg-white text-blue-600 py-2 px-6 rounded-full font-bold hover:bg-blue-100 transition duration-300"
+            className="btns text-white py-2 px-6 rounded-full font-bold hover:bg-blue-100 transition duration-300"
           >
             Voir mes réalisations
           </Link>
