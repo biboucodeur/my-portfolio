@@ -42,9 +42,9 @@ const About = () => {
                 Abibou Wade
               </h2>
               <p className="mt-2 text-gray-500">
-                Passionate web developer with 5 years of experience in creating
-                beautiful and functional websites. I love turning complex
-                problems into simple, beautiful, and intuitive designs.
+                Développeur web passionné avec 1 an d'expérience dans la création
+                des sites web beaux et fonctionnels. J'aime devenir complexe
+                problèmes dans des conceptions simples, belles et intuitives.
               </p>
             </div>
           </div>
