@@ -86,7 +86,7 @@ const About = () => {
         {/* Education Section */}
         <div className="bg-white shadow-lg rounded-lg overflow-hidden p-6 mb-8">
           <h2 className="text-2xl font-bold mb-4 text-gray-900">
-            Diplome et certification
+            Diplomes et certifications
           </h2>
           <div className="space-y-4">
             <EducationItem
