@@ -23,7 +23,7 @@ const Navbar = () => {
               <NavLink to="/">Accueil</NavLink>
               <NavLink to="/about">About</NavLink>
               <NavLink to="/projects">Projets</NavLink>
-              <NavLink to="/contact">Contact</NavLink>
+              <NavLink to="/contact">Contacts</NavLink>
             </div>
           </div>
           <div className="md:hidden">
