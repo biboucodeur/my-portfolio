@@ -53,7 +53,7 @@ const Navbar = () => {
               Projets
             </NavLink>
             <NavLink to="/contact" mobile>
-              Contact
+              Contacts
             </NavLink>
           </div>
         </div>
